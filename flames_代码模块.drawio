@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="第 1 页" id="6rPu7JLXed2ki7hcnGT5">
+    <mxGraphModel dx="1489" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCSBqGZFTnZYRZAHHmjg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1103" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCSBqGZFTnZYRZAHHmjg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="543" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCSBqGZFTnZYRZAHHmjg-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="92.5" y="627.5" width="445" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;shadow=0;container=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-33">
+          <mxGeometry width="445" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-32" value="" style="group" vertex="1" connectable="0" parent="LCSBqGZFTnZYRZAHHmjg-33">
+          <mxGeometry x="22.5" y="22.5" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-12" value="flames-agent-statistics&lt;div&gt;运营统计功能，负责平台运营数据的收集、分析和统计，提供用户行为、服务使用量等统计信息。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;container=0;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-32">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-15" value="flames-agent-doc&lt;div&gt;星火智能体文档模块，包含平台操作手册、接口文档、FAQ、架构说明等文档资源，用于指导用户和开发者使用平台。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;container=0;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-32">
+          <mxGeometry y="120" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="631" y="631" width="450" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-27" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-34">
+          <mxGeometry width="450" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-28" value="" style="group" vertex="1" connectable="0" parent="LCSBqGZFTnZYRZAHHmjg-34">
+          <mxGeometry x="25" y="14.5" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-5" value="flames-agent-api&lt;div&gt;① 基础框架服务接口SDK；&lt;/div&gt;&lt;div&gt;② 提供基础服务的接口定义；&lt;/div&gt;&lt;div&gt;③ 提供标准接口规范，各个模块之间的交互都按照这个规范来；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-28">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-14" value="flames-agent-sdk&lt;div&gt;星火智能体sdk，包含flames-agent-data(智能体开发服务接口数据对象)、flames-api-sdk(接口SDK)及java、python代码示例，为开发者提供接入平台的工具包&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-28">
+          <mxGeometry y="120" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-18" value="utils&lt;div&gt;通用工具类模块，提供平台各模块共用的工具方法（如文件处理、数据转换、加密解密等），支撑各业务模块的基础功能实现&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-28">
+          <mxGeometry y="240" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-37" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1187" y="639" width="430" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;container=0;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-37">
+          <mxGeometry width="430" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-36" value="" style="group" vertex="1" connectable="0" parent="LCSBqGZFTnZYRZAHHmjg-37">
+          <mxGeometry x="15" y="22" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-7" value="flames-agent-threecustom&lt;div&gt;① 接入三方办公应用平台的定制化模块&lt;/div&gt;&lt;div&gt;② 针对特定三方平台（如飞书、金山、钉钉等）的个性化需求进行定制开发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;container=0;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-36">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-11" value="flames-agent-threeparty&lt;div&gt;接入三方办公应用平台的通用模块，提供与飞书、金山、钉钉等三方平台对接的通用功能和基础能力，支撑跨平台集成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;container=0;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-36">
+          <mxGeometry y="120" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="344" y="148" width="965" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-13" value="flames-agent-manager&lt;div&gt;会话调度及管理框架，负责智能体会话的调度、生命周期管理、权限控制等，是平台会话层的核心管理模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-38">
+          <mxGeometry x="275" y="113" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-16" value="flames-agent-front&lt;div&gt;前端代码模块，包含智能体组件库(@agent/components)、样式库(@agent/scss)、工具库(@agent/utils)等前端资源，支撑平台的web界面展示与交互&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-38">
+          <mxGeometry x="275" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-17" value="turing-astrolink&lt;div&gt;外部组件与链接服务模块，提供各类处理组件（如文本分割、文档处理、数据解析、大模型调用等），扩展平台的数据处理和能力集成能力。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-38">
+          <mxGeometry y="340" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-6" value="flames-agent-service&lt;div&gt;① 核心业务服务实现模块，包含三个子模块：flames-agent-dialog对话服务、flames-agent-docqa文档问答服务、&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;flames-agent-scene&lt;/font&gt;场景服务等&lt;/div&gt;&lt;div&gt;② 负责具体的业务逻辑实现&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-38">
+          <mxGeometry y="227" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-10" value="flames-agent-exec&lt;div&gt;任务执行相关模块，可能负责任务流、脚本、组件等的执行调度与管理，包含执行所需的配置和辅助资源（如misc目录）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="LCSBqGZFTnZYRZAHHmjg-38">
+          <mxGeometry x="550" y="227" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LCSBqGZFTnZYRZAHHmjg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LCSBqGZFTnZYRZAHHmjg-38" source="LCSBqGZFTnZYRZAHHmjg-6" target="LCSBqGZFTnZYRZAHHmjg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

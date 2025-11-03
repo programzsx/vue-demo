@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="第 1 页" id="5SnExx-dAd8rtHs658OX">
+    <mxGraphModel dx="771" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MgI3IuqB1inZoIWjw7k_-1" value="坐席覆盖数量&lt;div&gt;1、触发推荐&lt;/div&gt;&lt;div&gt;2、全部渠道触发推荐&lt;/div&gt;&lt;div&gt;3、整体触发人数&lt;/div&gt;&lt;div&gt;4、辅助视图触发&lt;/div&gt;&lt;div&gt;5、预处理触发&lt;/div&gt;&lt;div&gt;6、服务受理v4&lt;/div&gt;&lt;div&gt;7、热线一屏立单&lt;/div&gt;&lt;div&gt;8、触发推荐且关联工单&lt;/div&gt;&lt;div&gt;9、二级应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;arcSize=4;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MgI3IuqB1inZoIWjw7k_-2" value="坐席人工立单量&lt;div&gt;1、触发推荐坐席&lt;/div&gt;&lt;div&gt;2、全部坐席&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;arcSize=4;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MgI3IuqB1inZoIWjw7k_-3" value="智能立单采用量&lt;br&gt;&lt;div&gt;1、触发推荐坐席&lt;/div&gt;&lt;div&gt;2、全部坐席&lt;/div&gt;&lt;div&gt;3、预处理&lt;/div&gt;&lt;div&gt;4、服务请求v4&lt;/div&gt;&lt;div&gt;5、热线一屏立单&lt;/div&gt;&lt;div&gt;6、二级应用&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;arcSize=4;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MgI3IuqB1inZoIWjw7k_-4" value="智能立单推荐量&lt;br&gt;&lt;div&gt;1、触发推荐坐席&lt;/div&gt;&lt;div&gt;2、全部坐席&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;arcSize=4;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="150" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
